@@ -30,7 +30,7 @@ It’s designed as a **blue team knowledge hub** 🛡️ — covering:
 - Repo purpose, contribution guide, badges, progress legend  
 
 ### 🛡️ 01. [Cyber Defence Frameworks](01_Cyber_Defence_Frameworks/README.md)  
-- 🧑‍💻 Junior Security Analyst Intro  
+- 🧑‍💻 Junior Security Analyst Intro (./Junior-SOC-Analyst-Intro.md) 
 - 🔺 Pyramid of Pain  
 - 🎯 Cyber Kill Chain  
 - 🔗 Unified Kill Chain  
