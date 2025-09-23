@@ -6,11 +6,10 @@
 ![THM](https://img.shields.io/badge/TryHackMe-SOC_Level_1-red?style=for-the-badge&logo=tryhackme)
 
 ---
-
 ## 📌 About this Repository
-This repository contains my **structured notes, labs, and resources** from the  
-[TryHackMe SOC Level 1 Learning Path](https://tryhackme.com/path/outline/soclevel1).  
-It reflects my **blue team journey** and preparation for a **SOC Analyst role**.  
+This repo is my **SOC Analyst (Blue Team) learning journey** 📘  
+Documenting **TryHackMe SOC Level 1** labs, tools, and frameworks —  
+all in one place for quick revision & reference. 🚀  
 
 ---
 
