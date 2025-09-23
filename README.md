@@ -29,6 +29,14 @@ It reflects my **blue team journey** and preparation for a **SOC Analyst role**.
 - [x] SIEM Introduction  
 - [ ] Threat Hunting (In Progress)  
 - [ ] Final Labs  
+---
+
+## ✅ Learning Path Progress
+- [x] Introduction to Cyber Security  
+- [x] SOC Fundamentals  
+- [x] SIEM Introduction  
+- [ ] Threat Hunting (In Progress)  
+- [ ] Final Labs  
 
 ---
 
