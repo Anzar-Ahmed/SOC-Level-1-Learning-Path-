@@ -6,10 +6,21 @@
 ![THM](https://img.shields.io/badge/TryHackMe-SOC_Level_1-red?style=for-the-badge&logo=tryhackme)
 
 ---
-## 📌 About this Repository
-This repo is my **SOC Analyst (Blue Team) learning journey** 📘  
-Documenting **TryHackMe SOC Level 1** labs, tools, and frameworks —  
-all in one place for quick revision & reference. 🚀  
+
+## 📌 About this Repository  
+
+Welcome to my **SOC Level 1 Learning Journey** 🚀  
+
+This repo is a collection of my **notes, labs, and cheat-sheets** from the  
+[TryHackMe SOC Level 1 Path](https://tryhackme.com/path/outline/soclevel1).  
+
+It’s designed as a **blue team knowledge hub** 🛡️ — covering:  
+- 🔎 Cyber Defence Frameworks  
+- 🌐 Threat Intelligence & YARA  
+- 📡 Network & Endpoint Monitoring  
+- 📊 SIEM, DFIR & Phishing Labs  
+
+👉 The goal? To build strong **SOC Analyst skills** and create a quick **revision-friendly reference** for myself (and anyone else on the same path). 📘✨
 
 ---
 
