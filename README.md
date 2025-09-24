@@ -37,7 +37,7 @@ It’s designed as a **blue team knowledge hub** 🛡️ — covering:
 - 🗂️ MITRE ATT&CK  
 - 📊 Detection Maturity / Summit / Eviction  
 
-### 🕵️‍♂️ 02. [Cyber Threat Intelligence](02_Cyber_Threat_Intelligence/README.md)  
+### 🕵️‍♂️ 02. [Cyber Threat Intelligence](02_Cyber_Threat_Intelligence/module.md)  
 - 🌐 CTI Overview & Lifecycle  
 - 🧩 YARA Basics (rules, strings, hex)  
 - 📡 OpenCTI / MISP intro  
